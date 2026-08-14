@@ -1,0 +1,120 @@
+VIJAYA COLLEGE, JAYANAGAR 
+BENGALURU – 560011 
+ 
+ 
+ 
+         PROJECT TITLE 
+E-COMMERCE WEB APPLICATION USING 
+DJANGO 
+     PROJECT SYNOPSIS: 
+ 
+PRESENTED BY: 
+BHAVANASI SREE HARI (U18HV23S0097) 
+S NOOR MOHAMMAD (U18HV23S0110) 
+ 
+ 
+
+ 
+ INTRODUCTION: 
+A Smart E-Commerce Web Application is a full-stack web-based system that enables 
+users to buy products online with secure authentication, online payments, and real-
+time order management. 
+In traditional shopping systems, customers must visit physical stores, which is time-
+consuming and limited by location. With the rapid growth of digital platforms, e-
+commerce systems have become essential for modern businesses. 
+This project is developed using the Django framework, which provides strong 
+security, scalability, and rapid development. 
+The system supports role-based access with separate login modules for Admin and 
+Users, ensuring secure and efficient data handling. 
+ 
+ OBJECTIVES OF THE PROJECT: 
+The main objectives of the Smart E-Commerce Web Application are: 
+• To provide a secure and user-friendly online shopping platform 
+• To automate product, order, and customer management 
+• To reduce manual effort in sales and inventory handling 
+• To provide real-time order tracking and payment processing 
+• To generate reports and analytics for business decisions 
+ 
+PROJECT DESCRIPTION: 
+The Smart E-Commerce Web Application is developed using Django and 
+Django Rest Framework for backend processing. 
+The frontend is designed using HTML, CSS, Bootstrap/Tailwind, and JavaScript 
+to ensure a responsive and mobile-friendly interface. 
+Users can register and log in, manage their profile and address, browse 
+products by category, search and filter products, add items to cart or Wishlist, 
+and place orders. 
+The system supports order tracking, invoice generation, and order history 
+management. 
+The Admin Panel is a custom-built dashboard (not default Django admin) 
+where the admin can manage products, categories, users, orders, stock levels, 
+and view sales reports. 
+Payment methods such as Cash on Delivery and Razor pay are integrated for 
+secure transactions. 
+All data is stored in a centralized database, ensuring data integrity, consistency, 
+and security. 
+ 
+SCOPE OF THE PROJECT: 
+The scope of this project includes complete online shopping and order 
+management functionality for small and medium-scale businesses. 
+The system can be extended in the future by adding: 
+• Advanced payment gateways 
+• Recommendation system using Machine Learning 
+• Inventory alerts and automation 
+• Email and notification services 
+• Mobile application integration 
+ 
+FEATURES OF THE SYSTEM: 
+• Secure User Registration and Login 
+• Product Listing with Categories and Filters 
+• Cart and Wishlist Management 
+• Order Placement and Tracking 
+• Coupon and Discount System 
+• Invoice Generation (PDF) 
+• Admin Dashboard with Sales Analytics 
+• Stock and Inventory Management 
+• Responsive and User-Friendly Interface 
+HARDWARE REQUIREMENTS: 
+• Processor: Intel i3 or higher 
+• RAM: Minimum 4 GB 
+• Hard Disk: Minimum 20 GB free space 
+• System: Desktop or Laptop 
+SOFTWARE REQUIREMENTS: 
+• Operating System: Windows / Linux 
+• Backend: Django, Django Rest Framework 
+• Frontend: HTML, CSS, Bootstrap / Tailwind, JavaScript 
+• Database: PostgreSQL / MySQL 
+• Authentication: Django Auth / JWT 
+• Payment Gateway: Razor pay 
+MODULES OF THE SYSTEM: 
+  User Module 
+• User Registration and Login 
+• Profile and Address Management 
+• Product Browsing and Search 
+• Cart and Wishlist 
+• Order Placement and Tracking 
+• Order History and Invoice Download 
+  Admin Module 
+• Admin Authentication 
+• Custom Dashboard 
+• Product and Category Management 
+• Order and Payment Management 
+• User Management 
+• Stock Control and Sales Reports 
+ 
+ CONCLUSION: 
+• The Smart E-Commerce Web Application using Django provides a secure, 
+scalable, and efficient platform for online shopping. 
+It reduces manual business operations, improves customer experience, 
+and offers real-time insights through analytics and reports. 
+• This project is highly suitable for academic evaluation, final-year 
+projects, and can be extended into a real-world commercial system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
